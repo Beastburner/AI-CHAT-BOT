@@ -4,7 +4,7 @@ import datetime
 import re
 
 # chatbot name
-BOT_NAME = "Lazycook"
+BOT_NAME = "Veronica"
 
 # memory
 user_name = None
